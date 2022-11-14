@@ -1,5 +1,5 @@
 # Plotly
-This a notebook regarding a plotting module in python called plotly. Which is most famous now a days.
+This is a notebook regarding a plotting module in python called <b>Plotly</b>. Which is most widely used now a days after seaborn and can overtake seaborn soon.
 
 
 # INTRODUCTION
